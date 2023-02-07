@@ -1,2 +1,2 @@
-3-print_number.py
+#!/usr/bin/python3
 print(f"{number:d} Battery street")
